@@ -1,4 +1,5 @@
-## npm i
+## Type npm install
+and then
 ```bash
 npm run dev
 # or
